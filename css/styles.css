@@ -1,0 +1,33 @@
+/* #walrus-showing {
+  display: none;
+}
+.clickable{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#initially-hidden {
+  display: none;
+} */
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.original {
+  background-color: grey;
+  color: black;
+}
+ .highlight {
+   background-color: #FFFF88;
+ }
